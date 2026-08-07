@@ -1,5 +1,7 @@
 <p align="center">
 	<img src="images/profile.png" alt="Profile image" width="220" />
+	<br />
+	<small>art by @MrRaccoonII</small>
 </p>
 
 Hiya!
