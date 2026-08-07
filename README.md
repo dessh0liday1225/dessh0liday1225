@@ -1,3 +1,5 @@
+![Profile image](images/profile.png)
+
 Hiya!
 
 My name is Michael (Mike for short).
