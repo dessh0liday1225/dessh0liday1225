@@ -1,4 +1,6 @@
-![Profile image](images/profile.png)
+<p align="center">
+	<img src="images/profile.png" alt="Profile image" width="220" />
+</p>
 
 Hiya!
 
