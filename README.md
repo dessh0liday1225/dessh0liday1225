@@ -2,6 +2,8 @@
 	<img src="images/profile.png" alt="Profile image" width="220" />
 	<br />
 	<small>art by @MrRaccoonII</small>
+	<br />
+	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdessh0liday1225%2Fguitar-picks&style=flat-square" alt="Guitar Picks" />
 </p>
 
 Hiya!
