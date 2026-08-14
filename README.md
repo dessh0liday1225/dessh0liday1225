@@ -3,7 +3,7 @@
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
-	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdessh0liday1225%2Fguitar-picks&style=flat-square" alt="Guitar Picks" />
+	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&label=Guitar%20Picks&color=brightgreen&style=flat-square" alt="Guitar Picks" />
 </p>
 
 Hiya!
@@ -76,4 +76,4 @@ Music
 
 Notes
 - My English breaks here and there, so please bear with me.
-- I can be random in conversations; don't be surprised if I go off-topic.
+- I can be random in conversations; don't be surprise if I go off-topic.
