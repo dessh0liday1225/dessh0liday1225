@@ -3,7 +3,7 @@
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
-	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=$.value&url=https://api.countapi.xyz/hit/dessh0liday1225/guitar-picks&style=flat-square" alt="Guitar Picks" />
+	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdessh0liday1225%2Fguitar-picks&style=flat-square" alt="Guitar Picks" />
 </p>
 
 Hiya!
