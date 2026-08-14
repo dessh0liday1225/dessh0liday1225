@@ -4,8 +4,6 @@
 	<small>art by @MrRaccoonII</small>
 	<br />
 	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&label=Guitar%20Picks&color=009fe3&style=flat-square" alt="Guitar Picks" />
-	<br />
-	<img src="https://img.shields.io/badge/HOLIDAY-FF0000?style=for-the-badge&logo=&logoColor=FFFFFF&label=&labelColor=00AA00&color=FFFFFF&link=https://github.com/dessh0liday1225" alt="Holiday Badge" width="120" />
 </p>
 
 Hiya!
