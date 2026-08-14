@@ -3,7 +3,7 @@
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
-	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&style=flat-square" alt="Guitar Picks" />
+	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=$.value&url=https://api.countapi.xyz/hit/dessh0liday1225/guitar-picks&style=flat-square" alt="Guitar Picks" />
 </p>
 
 Hiya!
