@@ -2,12 +2,6 @@
 	<img src="images/profile.png" alt="Profile image" width="220" />
 	<br />
 	<small>art by @MrRaccoonII</small>
-	<br />
-	<br />
-	<h3>🎸 Guitar Picks</h3>
-	<a href="https://github.com/dessh0liday1225">
-		<img src="https://github-readme-stats.vercel.app/api?username=dessh0liday1225&theme=dark&show_icons=true" alt="GitHub Stats" />
-	</a>
 </p>
 
 Hiya!
