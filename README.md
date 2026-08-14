@@ -3,7 +3,7 @@
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
-	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&style=flat-square" alt="Profile views" />
+	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&style=flat-square" alt="Guitar Picks" />
 </p>
 
 Hiya!
