@@ -3,77 +3,17 @@
 	<br />
 	<small>art by @MrRaccoonII</small>
 	<br />
+	<!-- Guitar Picks counter (uses CountAPI + shields.io; /hit will create & increment on each view) -->
 	<img src="https://img.shields.io/badge/dynamic/json?label=Guitar%20Picks&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdessh0liday1225%2Fguitar-picks&style=flat-square" alt="Guitar Picks" />
 </p>
 
-Hiya!
+# Hiya!
 
-My name is Michael (Mike for short).
+I'm Michael (Mike for short).
 
-Hobbies
-- Volleyball
-- Airsoft
-- Drawing
-- Practicing cooking
-- Gaming
+This profile shows a "Guitar Picks" counter that increments each time the badge is requested. It functions like a profile view counter.
 
-Where I hang out
-- Pony Town = DR spot
+- The counter is powered by CountAPI and rendered via shields.io.
+- The badge uses the `/hit` endpoint so it will be created automatically and increment on first view.
 
-Nationality
-- Hungarian ( CET ) 🇭🇺🇪🇺
-
-DNI
-- Homophobes
-- Zoophiles
-- Pedophiles
-- People who stirr shit up on purpose
-
-Likes
-- Animals
-- Video games
-- History
-- Space
-- Travelling
-- Conspiracy theories (please be respectful when discussing)
-
-Favorite video games
-- Titanfall 2
-- Call of Duty (König fans do NOT talk to me)
-- Minecraft
-- Pony Town
-- Roblox
-- Fortnite
-- Subnautica
-- Doom (2016), Doom Eternal
-- Overwatch 2
-- The Sims 2/3/4
-- Skyrim
-- Gmod
-- Bleach SR-BS-RoS
-
-Personal
-- Sexuality: Straight
-- Pronouns: He / Him
-- Gender: Male
-- Birthday: 09/07 ♍️
-- Age: 17
-
-Favorites (series / movies / anime)
-- JJBA
-- MHA
-- Bleach (all-time favourite)
-- Top Gun: Maverick
-- Bad Boys
-- Bullet Train
-- Gravity Falls
-- The Rookie
-
-Music
-- Pop
-- Hip-Hop
-- Rock (80s–90s)
-
-Notes
-- My English breaks here and there, so please bear with me.
-- I can be random in conversations; don't be surprised if I go off-topic.
+If you want to restore other details from the previous README or keep more personal sections, tell me and I'll add them back.
