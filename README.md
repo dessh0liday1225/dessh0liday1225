@@ -2,6 +2,8 @@
 	<img src="images/profile.png" alt="Profile image" width="220" />
 	<br />
 	<small>art by @MrRaccoonII</small>
+	<br />
+	<img src="https://komarev.com/ghpvc/?username=dessh0liday1225&style=flat-square" alt="Profile views" />
 </p>
 
 Hiya!
