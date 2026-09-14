@@ -57,7 +57,7 @@ Personal
 - Pronouns: He / Him
 - Gender: Male
 - Birthday: 09/07 ♍️
-- Age: 17
+- Age: 18
 
 Favorites (series / movies / anime)
 - JJBA
